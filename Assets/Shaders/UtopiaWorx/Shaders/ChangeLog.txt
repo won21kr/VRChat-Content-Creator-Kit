@@ -1,0 +1,35 @@
+Change Log:
+
+Version 1.0:
+Initial Submission
+
+
+Version 1.1
+-Added Zoom Parameter to the Barrel Distortion Shader
+-Added a new Depth Fog Shader
+-Added a new Lens artifact Shader
+
+Version 1.1.2
+-Added SSAO
+-Added Bend UV
+-Updated the default parameters for the shaders
+-updated the inspector icons
+-Added Zone Controller Pro support to all Shaders
+
+Version 1.1.3
+-Added Color Correction Shader
+-Added 16 new LUTs
+
+Version 1.1.4
+-Updated Butterfly controller script to include a better mouse look control
+-Added CRT Shader
+-Added Motion Blur Shader
+-Added HDR to LDR Tonemapping shader
+-Updated Gaussian Blur shader to correct an improper blur direction vector and more passes
+-Updated Depth Fog to include a tint color
+
+-Version 1.1.5
+-Removed Documentation and put them on Website to reduce package size
+-Added Motion Blur Shader
+-Added Tonemapping Shader
+-Added CRT Shader
